@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environment folders
+venv/
+ENV/
+env/
+.venv/
+
+# System files
+*.exe
+*.dll
+*.so
+*.dylib
+*.pyd
+
+# Python environment folders
+DLLs/
+Doc/
+etc/
+include/
+Lib/
+libs/
+Scripts/
+share/
+tcl/
+Tools/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Empty folders
+recordings/
+screenshots/
